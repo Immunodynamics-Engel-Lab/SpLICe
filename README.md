@@ -2,7 +2,7 @@
 
 ## Overview
 
-The **Spectral Library of Immune Cells (SpLICe)** is a curated resource that provides a comprehensive spectral library of murine splenic B-cells, CD4 and CD8 T-cells and bone marrow derived macrophages and dendritic cells. This resource is valuable for mass spectrometry based investigations focused on immune cell characterization and quantification within the murine system. It includes both a user-friendly HTML interface.
+The **Spectral Library of Immune Cells (SpLICe)** is a curated resource that provides a comprehensive spectral library of murine splenic B-cells, CD4 and CD8 T-cells and bone marrow derived macrophages and dendritic cells. This resource is valuable for mass spectrometry based investigations focused on immune cell characterization and quantification within the murine system.
 
 ## Features
 
